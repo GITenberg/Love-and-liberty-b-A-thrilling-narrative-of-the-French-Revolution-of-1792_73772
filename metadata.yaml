@@ -1,5 +1,8 @@
 _repo: Love-and-liberty-b-A-thrilling-narrative-of-the-French-Revolution-of-1792_73772
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73772-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
     - https://fr.wikipedia.org/wiki/Alexandre_Dumas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73772#Love-and-liberty-b-A-thrilling-narrative-of-the-French-Revolution-of-1792
 gutenberg_issued: '2024-06-04'
 gutenberg_type: Text
 identifiers:
